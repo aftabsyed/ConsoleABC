@@ -8,10 +8,10 @@ namespace ConsoleABC
 {
     class Program
     {
-        static void Main( [] args)
+        static void Main(string[] args)
 
-            Console.WriteLine("test");
         {
+            Console.WriteLine("test");
         }
     }
 }
