@@ -12,6 +12,7 @@ namespace ConsoleABC
 
         {
             Console.WriteLine("test.");
+            Console.WriteLine("Hello to SourceTree.");
         }
     }
 }
